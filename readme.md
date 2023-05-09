@@ -1,6 +1,6 @@
 # Checkpoint JS 2 - ESR1
 
-Script desenvolvido em Javascript que verifica a nota inserida pelo usuario.## Understand this workspace
+Script desenvolvido em Javascript que verifica a nota inserida pelo usuario.
 
 ## Alunos
 
